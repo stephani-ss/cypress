@@ -60,6 +60,6 @@ Para executar todos os testes em modo de linha de comando, use o seguinte comand
    ```
 
 ### Documentação
-Para obter detalhes completos sobre a configuração, implementação e execução dos testes automatizados com Cypress, consulte a [Documentação no Notion](https://nodejs.org/)
+Para obter detalhes completos sobre a configuração, implementação e execução dos testes automatizados com Cypress, consulte a [Documentação no Notion]([https://nodejs.org/](https://www.notion.so/Automa-o-Web-Front-faa157ba662245d2980b5708f74d214d)https://www.notion.so/Automa-o-Web-Front-faa157ba662245d2980b5708f74d214d)
 
 
