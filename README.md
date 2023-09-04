@@ -1,4 +1,4 @@
-# Testes Automatizados - Fluxos de uma Loja com Cypress
+# Automação Web (Front)
 
 Este repositório contém cenários de teste automatizados para os seguintes fluxos:
 
