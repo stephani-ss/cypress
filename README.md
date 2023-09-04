@@ -2,10 +2,21 @@
 
 Este repositório contém cenários de teste automatizados para os seguintes fluxos:
 
-1. Cadastro de Usuário
+1. Cadastro de Usuário 
+   - Deve realizar o cadastro de um novo usuário
+   - Deve exibir erro ao usar um e-mail já registrado
+   - Deve exibir erro ao usar senhas diferentes nos campos de senha
+   - Deve exibir erro ao deixar campos obrigatórios em branco
 2. Login
-3. Adicionar Produto ao Carrinho
-4. Finalização de Compra
+   - Deve realizar o login de um usuário existente
+   - Deve exibir uma mensagem de erro ao tentar fazer login com credenciais inválidas
+4. Adicionar Produto ao Carrinho
+   - Deve adicionar um produto ao carrinho pela página do produto → também presente no cenário 4.a
+   - (Busca) Pesquisar e adicionar um produto ao carrinho
+   - Navegar à página de categoria e adicionar um produto ao carrinho
+5. Finalização de Compra
+   - Checkout como convidado
+   - Deve exibir erro ao deixar campos obrigatórios em branco
 
 Esses testes foram implementados usando o framework de automação de testes Cypress, seguindo as melhores práticas de código, para garantir a qualidade e confiabilidade do aplicativo.
 
