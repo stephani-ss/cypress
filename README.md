@@ -32,23 +32,6 @@ Antes de executar os testes, certifique-se de que você tenha as seguintes ferra
 - [Node.js](https://nodejs.org/)
 - [Cypress](https://docs.cypress.io/guides/getting-started/installing-cypress)
 
-## Configuração do Projeto
-
-1. Clone este repositório para sua máquina local:
-
-   ```shell
-   git clone https://github.com/stephani-ss/cypress
-
-2. Navegue até o diretório do projeto:
-
-   ```shell
-   cd -cypress
-
-3. Instale as dependências do projeto:
-
-   ```shell
-   npm install
-
 ## Executando os Testes
 
 ### Abrir a interface do Cypress
