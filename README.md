@@ -23,9 +23,7 @@ Esses testes foram implementados usando o framework de automação de testes Cyp
 ## Documentação
 Para obter detalhes sobre os resultados e a execução dos testes automatizados com Cypress, consulte a [Documentação](https://www.notion.so/Automa-o-Web-Front-faa157ba662245d2980b5708f74d214d)
 
-
-https://github.com/stephani-ss/cypress/assets/73558275/695004a8-0d7c-4bac-968c-5eb24972d0d3
-
+https://github.com/stephani-ss/cypress/assets/73558275/e9f5d5a3-2d72-4345-be10-7c3dac223efc
 
 ## Pré-requisitos
 
