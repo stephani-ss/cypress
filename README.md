@@ -20,6 +20,13 @@ Este repositório contém cenários de teste automatizados para os seguintes flu
 
 Esses testes foram implementados usando o framework de automação de testes Cypress, seguindo as melhores práticas de código, para garantir a qualidade e confiabilidade do aplicativo.
 
+## Documentação
+Para obter detalhes sobre os resultados e a execução dos testes automatizados com Cypress, consulte a [Documentação](https://www.notion.so/Automa-o-Web-Front-faa157ba662245d2980b5708f74d214d)
+
+
+https://github.com/stephani-ss/cypress/assets/73558275/695004a8-0d7c-4bac-968c-5eb24972d0d3
+
+
 ## Pré-requisitos
 
 Antes de executar os testes, certifique-se de que você tenha as seguintes ferramentas instaladas em sua máquina:
@@ -58,8 +65,4 @@ Para executar todos os testes em modo de linha de comando, use o seguinte comand
    ```shell
    npx cypress run
    ```
-
-### Documentação
-Para obter detalhes completos sobre a configuração, implementação e execução dos testes automatizados com Cypress, consulte a [Documentação no Notion](https://www.notion.so/Automa-o-Web-Front-faa157ba662245d2980b5708f74d214d)
-
 
